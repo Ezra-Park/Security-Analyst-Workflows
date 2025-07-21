@@ -1,7 +1,5 @@
 # Security Analyst Workflows
 
----
-
 ## Welcome!
 
 Welcome to my **Security Analyst Workflows** portfolio! This repository serves as a hands-on showcase of my practical skills and understanding in various aspects of cybersecurity operations. Here, you'll find examples of the types of tasks and reports a Security Analyst might handle daily, demonstrating my ability to apply theoretical knowledge to real-world scenarios through structured processes.
@@ -15,8 +13,6 @@ My goal with this portfolio is to illustrate my proficiency in:
 
 Feel free to explore the different sections and provide any feedback or suggestions!
 
----
-
 ## Portfolio Structure
 
 This repository is organized into distinct sections, each focusing on a core Security Analyst workflow:
@@ -27,13 +23,9 @@ This repository is organized into distinct sections, each focusing on a core Sec
 * **`04_Incident_Response_Analysis/`**: Provides an in-depth analysis of a simulated security incident, outlining the detection, analysis, containment, and post-incident review phases as part of the incident response workflow.
 * **`Templates/` (Optional)**: A dedicated folder for any generic, reusable templates or frameworks used across different Security Analyst workflows.
 
----
-
 ## How to Navigate This Portfolio
 
 Each directory contains a `README.md` file that introduces the specific scenario or task being addressed, along with the relevant report or analysis document. Simply click into any of the folders to begin exploring my work.
-
----
 
 ## Connect With Me
 
