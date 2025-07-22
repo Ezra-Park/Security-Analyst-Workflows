@@ -6,7 +6,7 @@ This section showcases my technical proficiency in leveraging scripting language
 
 ## Projects in This Section:
 
-1.  **[Python IP Allow List Updater](Python_IP_Allow_List_Updater.md):**
+1.  **[Python IP Allow List Updater](Python_IP_Allow_List_Updater/README.md):**
     * **Focus:** Automation, file I/O, string manipulation in Python.
     * **Demonstrates:** How scripting can automate repetitive administrative tasks in network security, reducing manual error and improving efficiency.
     * **Scenario:** A script to automatically remove specific IP addresses from a network allow list.
