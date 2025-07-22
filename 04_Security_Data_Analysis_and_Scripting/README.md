@@ -27,5 +27,5 @@ This section showcases my technical proficiency in leveraging scripting language
 
 ---
 
-**[Explore the Python IP Allow List Updater &#8594;](Python_IP_Allow_List_Updater.md)**
+**[Explore the Python IP Allow List Updater &#8594;](Python_IP_Allow_List_Updater)**
 **[Explore the SQL Security Log Analysis &#8594;](SQL_Security_Log_Analysis.md)**
