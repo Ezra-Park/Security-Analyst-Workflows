@@ -18,7 +18,8 @@ The primary objective is to showcase that SQL operators and clauses can be used 
 
 **SQL Query:**
 
-![SQL Query - After-Hours Failed Login Attempts](https://github.com/user-attachments/assets/8055052f-f984-47de-b04e-4bf1ac0ae03c)
+<img width="577" height="335" alt="image" src="https://github.com/user-attachments/assets/c276246b-e5e7-4d5c-ae83-30a2e49d9975" />
+
 
 ### 2. Retrieve Login Attempts on Specific Dates
 
@@ -28,12 +29,14 @@ The primary objective is to showcase that SQL operators and clauses can be used 
 
 **SQL Query (OR Operator):**
 
-![SQL Query - Login Attempts OR Operator](https://github.com/user-attachments/assets/b68b4c39-06b5-40b1-956a-8debe7df4368)
+<img width="577" height="323" alt="image" src="https://github.com/user-attachments/assets/6b77170e-afef-4caf-a6d5-d138f74179b8" />
+
 `OR` allows us to search for data that matches either condition mentioned above.
 
 **SQL Query (BETWEEN Operator):**
 
-![SQL Query - Login Attempts BETWEEN Operator](https://github.com/user-attachments/assets/efc08d97-cc56-43ad-a088-9a9d3c96e2a9)
+<img width="577" height="325" alt="image" src="https://github.com/user-attachments/assets/93208a75-b6c5-4380-bc91-c91485680b6d" />
+
 `BETWEEN` works in this case because it is an inclusive operator, meaning it includes the dates that we are using to filter.
 
 ### 3. Retrieve Login Attempts from Specific Geos (Exclusion)
@@ -44,7 +47,7 @@ The primary objective is to showcase that SQL operators and clauses can be used 
 
 **SQL Query:**
 
-![SQL Query - Login Attempts Geo Exclusion](https://github.com/user-attachments/assets/c49f2ff8-4f3c-4002-b6ac-1f85a464c6d7)
+<img width="577" height="430" alt="image" src="https://github.com/user-attachments/assets/f7797e56-212b-4556-9411-8691ea768216" />
 
 ### 4. Filter Employee Data for Specific Departments and Locations
 
@@ -54,7 +57,8 @@ The primary objective is to showcase that SQL operators and clauses can be used 
 
 **SQL Query (AND Operator):**
 
-![SQL Query - Employee Data AND Operator](https://github.com/user-attachments/assets/df700e17-1674-497a-b7ea-8184e0f3e426)
+<img width="577" height="246" alt="image" src="https://github.com/user-attachments/assets/1cafa481-5963-42f8-8ef6-fa963c9f6fce" />
+
 When we want to filter results that match two conditions, the `AND` operator allows us to string together more than one condition, such as a department filter and an office filter.
 
 ### 5. Retrieve Employees from Specific Departments (Inclusion)
@@ -65,7 +69,7 @@ When we want to filter results that match two conditions, the `AND` operator all
 
 **SQL Query (OR Operator):**
 
-![SQL Query - Employees Specific Departments OR Operator](https://github.com/user-attachments/assets/7e42d8f1-ef97-4b60-9952-a5c4d12e24f2)
+<img width="577" height="406" alt="image" src="https://github.com/user-attachments/assets/9bb45d5f-97d0-4589-a51e-57291b80c9d5" />
 
 ### 6. Retrieve All Employees NOT in a Specific Department (Exclusion)
 
@@ -75,15 +79,15 @@ When we want to filter results that match two conditions, the `AND` operator all
 
 **SQL Query (<> Operator):**
 
-![SQL Query - Employees NOT Department <> Operator](https://github.com/user-attachments/assets/58b93a5d-bd0c-4f23-8bed-3cf444b5055a)
+<img width="577" height="430" alt="image" src="https://github.com/user-attachments/assets/aca45b64-6cc5-4879-9aa9-1113c7518cd1" />
 
 **SQL Query (!= Operator):**
 
-![SQL Query - Employees NOT Department != Operator](https://github.com/user-attachments/assets/65ee8220-cc57-4d67-9456-d16bbd04a9c7)
+<img width="577" height="423" alt="image" src="https://github.com/user-attachments/assets/72a8be41-c15c-4706-aa65-656908a84675" />
 
 **SQL Query (NOT Operator):**
 
-![SQL Query - Employees NOT Department NOT Operator](https://github.com/user-attachments/assets/a9734ddd-e56b-47e0-bb50-ecdc6d56fa7a)
+<img width="577" height="426" alt="image" src="https://github.com/user-attachments/assets/00598065-1c49-4710-adab-4a1fdf6bdcae" />
 
 ## Summary
 
