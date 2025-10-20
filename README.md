@@ -23,6 +23,7 @@ This repository is organized into distinct sections, each focusing on a core Sec
 * **`02_Cybersecurity_Audit/`**: Features a sample cybersecurity audit report, highlighting my understanding of control assessment methodologies and the workflow for reporting audit findings.
 * **`03_Vulnerability_Assessment_and_Management/`**: Showcases a vulnerability assessment report and a risk register, detailing identified weaknesses and proposed remediation strategies, illustrating the lifecycle of vulnerability and risk management.
 * **`04_Security_Data_Analysis_and_Scripting/`**: Includes practical examples of how SQL can be applied for security log analysis and Python scripting for security automation and utility tasks.
+* **`05_GRC_and_Policy_Examples/`:** Contains sample Governance, Risk, and Compliance (GRC) documents, such as Standard Operating Procedures (SOPs) and security policies, demonstrating foundational GRC knowledge and technical writing skills.
 * **`Templates/` (Optional)**: A dedicated folder for any generic, reusable templates or frameworks used across different Security Analyst workflows.
 
 ---
